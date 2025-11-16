@@ -1,0 +1,11 @@
+Arslan,30
+qw,10
+a,15
+qwert,0
+qwe,10
+azghan,87
+as,1
+as,15
+as,34
+as,5
+lol,20
